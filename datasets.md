@@ -1,1 +1,4 @@
-
+- https://github.com/shaypal5/awesome-twitter-data contains links
+- https://www.kaggle.com/data/35739 contains links
+- https://data.world/datasets/twitter contains links
+- https://archive.org/search.php?query=collection%3Atwitterstream&sort=-publicdate
