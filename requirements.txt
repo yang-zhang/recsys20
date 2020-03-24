@@ -5,4 +5,6 @@ dask-ml==1.2.0
 dask-xgboost==0.1.10
 xgboost==1.0.2
 lightgbm==2.3.1
+category-encoders==2.1.0
 bayesian-optimization==1.1.0
+optuna==1.2.0
